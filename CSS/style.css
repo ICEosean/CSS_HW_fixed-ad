@@ -1,0 +1,19 @@
+.box {
+    width: 1002px;
+    height: 1760px;
+    margin: 0 auto;
+}
+
+.ad_l {
+    position: fixed;
+    right: 50%;
+    margin-right: 555px;
+    top: 200px;
+}
+
+.ad_r {
+    position: fixed;
+    left: 50%;
+    margin-left: 555px;
+    top: 200px;
+}
