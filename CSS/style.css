@@ -6,6 +6,8 @@
 
 .ad_l {
     position: fixed;
+    width: 120px;
+    height: 288px;
     right: 50%;
     margin-right: 555px;
     top: 200px;
@@ -13,6 +15,8 @@
 
 .ad_r {
     position: fixed;
+    width: 120px;
+    height: 288px;
     left: 50%;
     margin-left: 555px;
     top: 200px;
